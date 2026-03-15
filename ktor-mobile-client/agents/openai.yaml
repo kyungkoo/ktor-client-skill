@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ktor Mobile Client"
+  short_description: "Ktor Android/iOS client architecture help"
+  default_prompt: "Use $ktor-mobile-client to review or refactor a Ktor-based Android/iOS client architecture."

@@ -1,0 +1,17 @@
+{
+  "name": "ktor-mobile-client-skill",
+  "version": "0.1.0",
+  "description": "npx installer for the Codex ktor-mobile-client skill",
+  "license": "Apache-2.0",
+  "type": "module",
+  "bin": {
+    "ktor-mobile-client-skill": "./bin/install.js"
+  },
+  "files": [
+    "bin/install.js",
+    "ktor-mobile-client/**/*"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
